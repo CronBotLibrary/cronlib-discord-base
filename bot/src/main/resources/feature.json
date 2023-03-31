@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Bot",
+    "id": "example-bot",
+    "version": "v0.1",
+    "mainClass": "jp.cron.base.ExampleFeature",
+    "handleActivity": "false"
+  }
+]

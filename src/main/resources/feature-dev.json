@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Activity",
+    "id": "example-activity",
+    "version": "v0.1",
+    "mainClass": "jp.cron.base.ExampleActivity",
+    "handleActivity": "true"
+  },
+  {
+    "name": "Bot",
+    "id": "example-bot",
+    "version": "v0.1",
+    "mainClass": "jp.cron.base.ExampleFeature",
+    "handleActivity": "false"
+  }
+]
